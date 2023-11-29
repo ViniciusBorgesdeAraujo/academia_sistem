@@ -1,0 +1,11 @@
+date/time	script	user	action	table	field	key value	old value	new value
+2023-11-21 14:12:55	/academia/pessoaadd.php	-1	A	pessoa	idaula	3		
+2023-11-21 14:12:55	/academia/pessoaadd.php	-1	A	pessoa	Nome	3		Vinicius Borges de Araujo
+2023-11-21 14:12:55	/academia/pessoaadd.php	-1	A	pessoa	CPF	3		022.222.303-22
+2023-11-21 14:12:55	/academia/pessoaadd.php	-1	A	pessoa	Senha	3		********
+2023-11-21 14:12:55	/academia/pessoaadd.php	-1	A	pessoa	Sexo	3		1
+2023-11-21 14:12:55	/academia/pessoaadd.php	-1	A	pessoa	datanascimento	3		1992-11-09
+2023-11-21 14:12:55	/academia/pessoaadd.php	-1	A	pessoa	Email	3		vinnepaul@gmail.com
+2023-11-21 14:12:55	/academia/pessoaadd.php	-1	A	pessoa	Ativado	3		
+2023-11-21 14:12:55	/academia/pessoaadd.php	-1	A	pessoa	datadecadastro	3		2023-11-21 14:12:55
+2023-11-21 14:12:55	/academia/pessoaadd.php	-1	A	pessoa	idpessoa	3		3
