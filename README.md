@@ -1,6 +1,12 @@
-# Sistema de Academia FitPromanage
+# Sistema de Academia FitHome Studio
 
-O FitPromanage é um sistema de gestão de academia desenvolvido para ajudar proprietários e administradores de academias a gerenciar suas operações de forma eficiente. Este sistema foi desenvolvido utilizando o PHPMaker 2020 e PHP 7.4, com suporte ao MySQL 8.0 e está pronto para uso com o XAMPP 7.4.
+Gostaria de compartilhar as melhorias que implementei em nosso sistema de academia. Agora, oferecemos aos nossos alunos a flexibilidade de praticar exercícios em casa, proporcionando uma experiência mais conveniente e personalizada.
+
+No novo modelo, os alunos têm a liberdade de se cadastrar em várias aulas, cada uma delas acompanhada por videoaulas envolventes. Além disso, implementamos um sistema abrangente de cadastro que permite aos alunos registrar seu endereço e documentos essenciais, criando assim um perfil completo e seguro.
+
+Uma funcionalidade importante é o módulo de matrícula, que organiza os alunos em cursos distintos, separados por turnos. Isso permite uma gestão mais eficiente e facilita o acompanhamento das atividades de cada grupo.
+
+Este sistema foi desenvolvido utilizando o PHPMaker 2020 e PHP 7.4, com suporte ao MySQL 8.0 e está pronto para uso com o XAMPP 7.4.
 
 ## Sobre o Projeto
 
